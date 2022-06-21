@@ -1,7 +1,7 @@
-# apps
-Android Apps by me
 
-## Launched Apps
+# Android Apps by me
+
+## Released Apps
 
 - Net Blocker - Block Internet Access To Any Android App
 <a href="https://github.com/d0h-cmd/apps/raw/main/Net_Blocker.1.apk">Download Net Blocker v1</a>
