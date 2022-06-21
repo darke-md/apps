@@ -1,5 +1,5 @@
 
-# Android Apps by Darke
+# Android Apps by Debojit
 
 ## Released Apps
 
